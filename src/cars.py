@@ -1,0 +1,2 @@
+def getCar():
+  return 'BMW'
